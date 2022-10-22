@@ -1,0 +1,47 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": { "id": "bbc-news", "name": "BBC News" },
+        "author": "BBC News",
+        "title": "Ukraine war: Multiple explosions in Ukraine capital Kyiv",
+        "description": "The apparent strikes come two days after the only bridge linking Russia with occupied Crimea was damaged in a blast.",
+        "url": "http://www.bbc.co.uk/news/live/world-63193124",
+        "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+        "publishedAt": "2022-10-10T05:52:25.9098356Z",
+        "content": "Welcome to our live coverage of Russia's invasion of Ukraine.\r\nReports are coming in of multiple explosions in the Ukrainian capital Kyiv.\r\nThe apparent strikes on the city come two days after the on… [+707 chars]"
+      },
+      {
+        "source": { "id": "bbc-news", "name": "BBC News" },
+        "author": "BBC News",
+        "title": "Ukraine war: Liberating towns is a shot in the arm for Ukrainian troops",
+        "description": "The BBC's defence correspondent meets the people of a retaken town - and the soldiers who freed it.",
+        "url": "http://www.bbc.co.uk/news/world-europe-63194377",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12A4A/production/_127026367_olexidronecrew.jpg",
+        "publishedAt": "2022-10-10T03:07:23.4571555Z",
+        "content": "Oleksii tells me: \"I feel safe here because we are on our land and even the ground will bring me help.\" That's despite the nearby sound of small-arms fire, exploding artillery shells landing within s… [+4138 chars]"
+      },
+      {
+          "source": { "id": "bbc-news", "name": "BBC News" },
+          "author": "BBC News",
+          "title": "Ukraine war: Liberating towns is a shot in the arm for Ukrainian troops",
+          "description": "The BBC's defence correspondent meets the people of a retaken town - and the soldiers who freed it.",
+          "url": "http://www.bbc.co.uk/news/world-europe-63194377",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12A4A/production/_127026367_olexidronecrew.jpg",
+          "publishedAt": "2022-10-10T03:07:23.4571555Z",
+          "content": "Oleksii tells me: \"I feel safe here because we are on our land and even the ground will bring me help.\" That's despite the nearby sound of small-arms fire, exploding artillery shells landing within s… [+4138 chars]"
+        },
+        {
+          "source": { "id": "bbc-news", "name": "BBC News" },
+          "author": "BBC News",
+          "title": "Ukraine war: Liberating towns is a shot in the arm for Ukrainian troops",
+          "description": "The BBC's defence correspondent meets the people of a retaken town - and the soldiers who freed it.",
+          "url": "http://www.bbc.co.uk/news/world-europe-63194377",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12A4A/production/_127026367_olexidronecrew.jpg",
+          "publishedAt": "2022-10-10T03:07:23.4571555Z",
+          "content": "Oleksii tells me: \"I feel safe here because we are on our land and even the ground will bring me help.\" That's despite the nearby sound of small-arms fire, exploding artillery shells landing within s… [+4138 chars]"
+        }
+    ]
+  }
+  
